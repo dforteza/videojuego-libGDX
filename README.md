@@ -1,6 +1,8 @@
 
 # Meteor Catcher
 
+![Gameplay](docs/MeteorCatcher.gif)
+
 ## Introducción
 
 **Nombre del juego:** Meteor Catcher
